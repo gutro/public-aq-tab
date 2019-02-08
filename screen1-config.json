@@ -1,22 +1,22 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "websites" : [
     {
-      "url" : "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/app/settings.html",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 15
+      "url" : "https://app.datadoghq.com/dashboard/ag6-dur-rph/acquisition?tile_size=m&page=0&is_auto=false&from_ts=1549458000000&to_ts=1549630800000&live=true&tv_mode=true##",
+      "duration" : 30,
+      "tabReloadIntervalSeconds": 600
     },
     {
-      "url" : "https://github.com/KevinSheedy/chrome-tab-rotate.git",
+      "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/f9a550b370a5ef58cfa9868439fac164",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 300
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url" : "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }
