@@ -22,6 +22,11 @@
       "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/cac0ddd48854c011ebda3f8980d4bf68",
       "duration" : 10,
       "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url" : "https://jira.leovegas.com/secure/RapidBoard.jspa?rapidView=638",
+      "duration" : 5,
+      "tabReloadIntervalSeconds": 0
     }
   ]
 }
