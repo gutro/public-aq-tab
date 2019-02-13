@@ -1,12 +1,12 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": true,
+  "fullscreen": false,
   "autoStart": true,
   "websites" : [
     {
       "url" : "https://app.datadoghq.com/dashboard/ag6-dur-rph/acquisition?tile_size=m&page=0&is_auto=false&from_ts=1549458000000&to_ts=1549630800000&live=true&tv_mode=true##",
       "duration" : 30,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 0
     },
     {
       "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/f9a550b370a5ef58cfa9868439fac164",
@@ -15,6 +15,11 @@
     },
     {
       "url" : "https://prod-logs.local.leovegas.net/goto/93ceee20c3d9753fd420b18cd114ab4b",
+      "duration" : 10,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/18a6a7914eb2a8912854026dc5fadba4",
       "duration" : 10,
       "tabReloadIntervalSeconds": 600
     }
