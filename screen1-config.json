@@ -11,21 +11,21 @@
     {
       "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/f9a550b370a5ef58cfa9868439fac164",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url" : "https://prod-logs.local.leovegas.net/goto/dae6a3a2b2e5a88007809665adc05f40",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/cac0ddd48854c011ebda3f8980d4bf68",
       "duration" : 10,
-      "tabReloadIntervalSeconds": 0
+      "tabReloadIntervalSeconds": 600
     },
     {
       "url" : "https://jira.leovegas.com/secure/RapidBoard.jspa?rapidView=638",
-      "duration" : 5,
+      "duration" : 15,
       "tabReloadIntervalSeconds": 0
     }
   ]
