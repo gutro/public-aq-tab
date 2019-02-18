@@ -32,6 +32,13 @@
       "url" : "https://app.datadoghq.com/monitors/5444858?from_ts=1542371957130&to_ts=1550147957130&eval_ts=1550147957130",
       "duration" : 15,
       "tabReloadIntervalSeconds": 0
+    } ,
+    {
+      "url" : "https://leo-affiliate-listener.herokuapp.com/",
+      "user": "james.johnson@leovegas.com,
+      "password": "Outw@rdbound"
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 0
     } 
   ]
 }
