@@ -29,7 +29,7 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url" : "https://app.datadoghq.com/monitors/5444858?from_ts=1542371957130&to_ts=1550147957130&eval_ts=1550147957130",
+      "url" : "https://app.datadoghq.com/monitors/5444858?live=3m",
       "duration" : 15,
       "tabReloadIntervalSeconds": 0
     } ,
