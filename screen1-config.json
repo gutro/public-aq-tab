@@ -40,9 +40,7 @@
       "tabReloadIntervalSeconds": 0
     } ,
     {
-      "url" : "https://leo-affiliate-listener.herokuapp.com/",
-      "user": "james.johnson@leovegas.com,
-      "password": "Outw@rdbound"
+      "url" : "https://leo-affiliate-listener.herokuapp.com/", 
       "duration" : 15,
       "tabReloadIntervalSeconds": 0
     } 
