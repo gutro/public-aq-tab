@@ -32,7 +32,7 @@
       "url" : "https://app.datadoghq.com/monitors/5444858?live=3m",
       "duration" : 15,
       "tabReloadIntervalSeconds": 0
-    } ,
+    },
     {
       "url" : "https://app.datadoghq.com/dashboard/24k-wjd-awn/acquisition---404?tile_size=l&page=0&is_auto=false&from_ts=1554197400000&to_ts=1554283800000&live=true
 ",
