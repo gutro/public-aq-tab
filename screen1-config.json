@@ -4,16 +4,10 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://app.datadoghq.com/dashboard/ag6-dur-rph/acquisition?tile_size=m&page=0&is_auto=false&from_ts=1549458000000&to_ts=1549630800000&live=true&tv_mode=true##",
+      "url" : "https://app.datadoghq.com/dashboard/w52-4xj-5an/acquisition-not-robert?from_ts=1558349257293&to_ts=1558352857293&live=false&tile_size=s&tv_mode=false",
       "duration" : 30,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/f9a550b370a5ef58cfa9868439fac164",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 600
-    },
-    {
+    },{
       "url" : "https://prod-logs.local.leovegas.net/goto/dae6a3a2b2e5a88007809665adc05f40",
       "duration" : 10,
       "tabReloadIntervalSeconds": 600
@@ -34,12 +28,7 @@
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url" : "https://app.datadoghq.com/dashboard/24k-wjd-awn/acquisition---404?tile_size=l&page=0&is_auto=false&from_ts=1554197400000&to_ts=1554283800000&live=true",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 0
-    } ,
-    {
-      "url" : "https://leo-affiliate-listener.herokuapp.com/", 
+      "url" : "https://p.datadoghq.com/sb/227aef76f-7c39449140864970e0bba9d24d054e70", 
       "duration" : 15,
       "tabReloadIntervalSeconds": 0
     } 
