@@ -7,15 +7,6 @@
       "url" : "https://app.datadoghq.com/dashboard/w52-4xj-5an/acquisition-not-robert?from_ts=1558349257293&to_ts=1558352857293&live=false&tile_size=s&tv_mode=false",
       "duration" : 30,
       "tabReloadIntervalSeconds": 0
-    },{
-      "url" : "https://prod-logs.local.leovegas.net/goto/dae6a3a2b2e5a88007809665adc05f40",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 600
-    },
-    {
-      "url" : "http://kibana.leo-prod-malta.lvg-tech.net/goto/cac0ddd48854c011ebda3f8980d4bf68",
-      "duration" : 10,
-      "tabReloadIntervalSeconds": 600
     },
     {
       "url" : "https://jira.leovegas.com/secure/RapidBoard.jspa?rapidView=638",
