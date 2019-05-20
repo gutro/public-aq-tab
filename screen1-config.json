@@ -12,12 +12,7 @@
       "url" : "https://jira.leovegas.com/secure/RapidBoard.jspa?rapidView=638",
       "duration" : 5,
       "tabReloadIntervalSeconds": 600
-    },
-    {
-      "url" : "https://app.datadoghq.com/monitors/5444858?live=3m",
-      "duration" : 15,
-      "tabReloadIntervalSeconds": 0
-    },
+    }, 
     {
       "url" : "https://p.datadoghq.com/sb/227aef76f-7c39449140864970e0bba9d24d054e70", 
       "duration" : 15,
