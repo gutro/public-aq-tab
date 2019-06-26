@@ -22,6 +22,11 @@
       "url" : "http://rp.leo-platform-infra.lvg-tech.net/ui/#acquisition_personal/dashboard/5cdc1897b455da0001d7e35a", 
       "duration" : 15,
       "tabReloadIntervalSeconds": 0
+    } ,
+    {
+      "url" : "https://leogears.testrail.net/index.php?/runs/view/599&group_by=cases:section_id&group_order=asc", 
+      "duration" : 15,
+      "tabReloadIntervalSeconds": 0
     } 
   ]
 }
