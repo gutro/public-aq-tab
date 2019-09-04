@@ -7,11 +7,6 @@
       "url" : "https://app.datadoghq.com/dashboard/w52-4xj-5an/acquisition-not-robert?from_ts=1558349257293&to_ts=1558352857293&live=false&tile_size=s&tv_mode=false",
       "duration" : 1,
       "tabReloadIntervalSeconds": 0
-    }, 
-    {
-      "url" : "https://p.datadoghq.com/sb/227aef76f-7c39449140864970e0bba9d24d054e70", 
-      "duration" : 5,
-      "tabReloadIntervalSeconds": 0
     },
     {
       "url" : "https://leogears.testrail.net/index.php?/runs/view/599&group_by=cases:section_id&group_order=asc", 
