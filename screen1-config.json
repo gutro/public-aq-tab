@@ -5,13 +5,18 @@
   "websites" : [
     {
       "url" : "https://p.datadoghq.com/sb/227aef76f-2b5625774983516b02b050d748a90e37",
-      "duration": 30,
+      "duration": 45,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url" : "http://rp.leo-platform-infra.lvg-tech.net/ui/#acquisition_personal/launches/all?page.page=1&page.size=10", 
       "duration": 10,
       "tabReloadIntervalSeconds": 60
+    },
+    {
+      "url" : "http://www.e-try.com/black.htm", 
+      "duration": 5,
+      "tabReloadIntervalSeconds": 0
     }
   ]
 }
