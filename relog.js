@@ -2,10 +2,11 @@
 // @name         Auto login
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Keep dashboard updated
 // @author       Acquisition
 // @match        http://rp.leo-platform-infra.lvg-tech.net/ui/
 // @grant        none
+// @updateURL
 // ==/UserScript==
 (function() {
     'use strict';
