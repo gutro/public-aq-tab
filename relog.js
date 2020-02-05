@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto login
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Keep dashboard updated
 // @author       Acquisition
 // @match        http://rp.leo-platform-infra.lvg-tech.net/ui/
@@ -16,6 +16,6 @@
             loginBtn.click();
         }
     };
-    setTimeout(login, 1000)
+    setTimeout(login, 2000)
     setInterval(login, 30000)
 })();
