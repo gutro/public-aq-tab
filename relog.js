@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto login
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Keep dashboard updated
 // @author       Acquisition
 // @match        http://rp.leo-platform-infra.lvg-tech.net/ui/
