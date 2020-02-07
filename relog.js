@@ -7,6 +7,7 @@
 // @match        http://rp.leo-platform-infra.lvg-tech.net/ui/
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/gutro/public-aq-tab/master/relog.js
+// @downloadURL  https://raw.githubusercontent.com/gutro/public-aq-tab/master/relog.js
 // ==/UserScript==
 (function() {
     'use strict';
