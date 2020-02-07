@@ -16,6 +16,5 @@
             loginBtn.click();
         }
     };
-    setTimeout(login, 2000)
-    setInterval(login, 30000)
+    setInterval(login, 2000)
 })();
