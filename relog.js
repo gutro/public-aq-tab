@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto login
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Keep dashboard updated
 // @author       Acquisition
 // @match        http://rp.leo-platform-infra.lvg-tech.net/ui/
@@ -14,6 +14,10 @@
     const login = () => {
         const loginBtn = document.querySelector('button.rp-btn.rp-btn-login');
         if (loginBtn) {
+            document.querySelectorAll('.login-form input').forEach(element => {
+                element.dispatchEvent(new Event('change'));
+            });
+
             loginBtn.click();
         }
     };
