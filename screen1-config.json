@@ -4,7 +4,7 @@
   "autoStart": true,
   "websites" : [
     {
-      "url" : "https://p.datadoghq.com/sb/227aef76f-2b5625774983516b02b050d748a90e37",
+      "url" : "https://p.datadoghq.com/sb/227aef76f-2b5625774983516b02b050d748a90e37?&theme=dark",
       "duration": 40,
       "tabReloadIntervalSeconds": 60
     },
